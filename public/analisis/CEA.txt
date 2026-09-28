@@ -1,0 +1,8 @@
+tiempo_minutos:39
+datos_numericos: 110
+acciones: 30
+gobernador_directas: 1
+gobernador_indirectas: 3
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 2
+puntos_de_friccion: Las fugas de agua siguen siendo una queja ciudadana; ampliar fuentes y cobertura exige sostener la disponibilidad hídrica y mejorar la atención a usuarios.

@@ -1,0 +1,8 @@
+tiempo_minutos:29
+datos_numericos: 52
+acciones: 17
+gobernador_directas: 1
+gobernador_indirectas: 3
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 8
+puntos_de_friccion: La cultura de planeación y participación ciudadana sigue siendo limitada; varios indicadores del Plan Estatal de Desarrollo dependen también de decisiones municipales, federales y condiciones externas.

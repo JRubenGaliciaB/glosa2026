@@ -1,0 +1,8 @@
+tiempo_minutos:41
+datos_numericos: 128
+acciones: 34
+gobernador_directas: 2
+gobernador_indirectas: 0
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: El crecimiento de la demanda presiona las frecuencias y la cobertura de Qrobus; algunas rutas tienen esperas planeadas de hasta 38 minutos. La oferta insuficiente de grúas concesionadas y la falta de corralones cercanos en varios municipios elevan los costos de traslado para los ciudadanos.

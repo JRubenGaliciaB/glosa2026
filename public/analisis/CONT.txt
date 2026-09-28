@@ -1,0 +1,8 @@
+tiempo_minutos:39
+datos_numericos: 182
+acciones: 28
+gobernador_directas: 1
+gobernador_indirectas: 0
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: La vigilancia de contrataciones y proveedores, la atención de observaciones pendientes y el control de riesgos requieren seguimiento continuo para prevenir irregularidades.

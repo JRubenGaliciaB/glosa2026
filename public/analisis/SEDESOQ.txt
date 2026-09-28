@@ -1,0 +1,8 @@
+tiempo_minutos:24
+datos_numericos: 43
+acciones: 14
+gobernador_directas: 1
+gobernador_indirectas: 1
+aqui_contigo: 2
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: Pese a la mejora de indicadores sociales, persisten carencias y hacinamiento en hogares vulnerables; la cobertura de apoyos y servicios debe llegar a las comunidades.

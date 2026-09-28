@@ -1,0 +1,59 @@
+Pregunta [María Leonor Mejía Barraza]: ¿Cómo se mide la calidad del aire y cuáles son los contaminantes más problemáticos?
+
+Pregunta [Adriana Elisa Meza Argaluza]: ¿Qué inversiones seguirán para modernizar otros tianguis y mercados?
+
+Respuesta [Marco Antonio del Prete Tercero]: Monitorean fuentes móviles, industriales y de área mediante seis estaciones, bajo la norma ambiental aplicable. Miden gases y partículas PM2.5 y PM10; la información se publica continuamente. No jerarquiza con una cifra el contaminante principal.
+
+Respuesta [Marco Antonio del Prete Tercero]: La secretaría no ejecuta obra pública en mercados; apoya equipamiento de puestos y compensación a comerciantes durante intervenciones. No presenta una ruta de inversión para los demás centros.
+
+Pregunta [Ulises Gómez de la Rosa]: ¿Qué proyectos y resultados justifican el presupuesto anual de la Agencia de Energía y qué pasó con Energía al 100 para viviendas sin electricidad?
+
+Pregunta [Teresita Calzada Rovirosa]: ¿Está saturado el aeropuerto y se ampliará? ¿Se exige tratamiento y captación de agua a nuevas industrias?
+
+Pregunta [Mauricio Cárdenas Palacios]: ¿Qué resultados medibles produjo el sistema de economía circular?
+
+Respuesta [Marco Antonio del Prete Tercero]: Enumera asesorías, capacitación, diagnósticos y vinculación energética de la agencia. Energía al 100 se retiró para evitar duplicar el programa Justicia Energética de CFE; no relaciona cada gasto con un proyecto ejecutado de electrificación.
+
+Pregunta [Ulises Gómez de la Rosa]: Reitera la solicitud de montos y evidencia por proyecto de la agencia y cuestiona posibles duplicidades y desvíos.
+
+Respuesta [Marco Antonio del Prete Tercero]: Afirma que presupuestos y ejercicio son públicos y remite a las actividades enumeradas; no entrega un desglose por proyecto durante la intervención.
+
+Respuesta [Marco Antonio del Prete Tercero]: El aeropuerto aún tiene capacidad de operaciones aéreas, pero prevé ampliar la terminal de pasajeros. Los parques y plantas deben cumplir sus autorizaciones ambientales; algunas tratan o captan agua, bajo vigilancia con la autoridad hídrica, sin una exigencia uniforme detallada para cada nueva empresa.
+
+Respuesta [Marco Antonio del Prete Tercero]: Reporta 373 empresas, 449 iniciativas circulares, ahorros empresariales estimados en 1,532 millones de pesos anuales, 423,000 toneladas de residuos aprovechados y casi 2 millones de toneladas de CO₂ equivalente evitadas.
+
+Pregunta [Mauricio Cárdenas Palacios]: ¿Cómo puede la ciudadanía participar en economía circular?
+
+Respuesta [Marco Antonio del Prete Tercero]: Propone separar, reusar y reciclar residuos; impulsa capacitación en universidades y escuelas.
+
+Pregunta [Paul Ospital Carrera]: ¿Conviene seguir atrayendo centros de datos considerando su consumo de agua y electricidad y el limitado empleo permanente? ¿Qué evidencia y controles respaldan esa decisión?
+
+Pregunta [Enrique Antonio Correa Sada]: ¿Qué solución se plantea para la saturación futura de rellenos sanitarios municipales?
+
+Pregunta [Claudia Díaz Gayou]: ¿Qué se hará ante el rezago de empleo, la demanda ambiental y energética de centros de datos y las dudas sobre beneficios de economía circular para empresas locales?
+
+Respuesta [Marco Antonio del Prete Tercero]: Sostiene que centros de datos actuales usan enfriamiento de menor consumo hídrico y, en algunos casos, circuitos cerrados o agua tratada; atribuye la asignación de agua a Conagua. Defiende su atracción, pero no presenta consumos individualizados ni una comparación completa de empleo y recursos.
+
+Pregunta [Paul Ospital Carrera]: ¿Existe un padrón que permita saber qué centros de datos usan agua tratada, energía propia y tecnologías ambientales responsables?
+
+Respuesta [Marco Antonio del Prete Tercero]: La Secretaría comenzará a obtener consumos de agua, energía, emisiones y residuos mediante cédulas anuales y acuerdos con la industria; menciona certificaciones, pero no proporciona un padrón comparativo actual.
+
+Respuesta [Marco Antonio del Prete Tercero]: Propone reducir lo que llega a rellenos mediante separación, valorización, reúso y compostaje, en coordinación municipal; no fija un calendario de nueva disposición final.
+
+Respuesta [Marco Antonio del Prete Tercero]: Para empleo revisa inversiones anunciadas, dialoga con empresas, agiliza trámites municipales, conecta proveedores con compradores y orienta capacitación a vacantes específicas. No aísla el efecto de cada acción sobre empleos creados.
+
+Pregunta [Claudia Díaz Gayou]: ¿Se alcanzará la meta de tres primeros lugares en empleo formal? ¿Qué tasa de cierre tienen las pymes, qué proporción de proveeduría es local y qué controles rigen a los centros de datos?
+
+Respuesta [Marco Antonio del Prete Tercero]: Considera vigente la meta, aunque no garantiza cumplirla; cita el sexto lugar en una medición anual. No tiene tasa exacta de cierre de pymes y pide a grandes inversionistas procurar al menos 50 % de proveeduría local, sin obligación formal. Reitera cumplimiento ambiental de centros de datos, sin cifras individualizadas.
+
+Pregunta [Luis Antonio Zapata Guerrero]: ¿Qué eficacia tienen los apoyos a emprendedores, cómo ayuda la agencia energética a atraer inversión y cuál es el aporte de la economía circular al PIB?
+
+Pregunta [Laura Andrea Tovar Saavedra]: ¿En qué se usa lo recaudado por verificación vehicular para mejorar el aire? ¿Cómo se medirán y publicarán los impactos ambientales de industrias y centros de datos?
+
+Respuesta [Marco Antonio del Prete Tercero]: Reporta más de 2,560 emprendedores apoyados y cerca de 90 % con avances hacia operación; la agencia brinda asesoría técnica a inversiones. Dice que aún no puede aislarse el aporte de economía circular al PIB.
+
+Respuesta [Marco Antonio del Prete Tercero]: Atribuye a la verificación reducciones en algunos contaminantes vehiculares, aunque otros aumentaron. Aclara que las muertes asociadas a partículas en ProAire son una estimación estadística, no casos individualmente confirmados. Remite al monitoreo público del aire y a cédulas ambientales de industrias; no desglosa el destino del ingreso por verificación.
+
+Pregunta [Laura Andrea Tovar Saavedra]: ¿Qué datos de consumo reportarán concretamente los centros de datos?
+
+Respuesta [Marco Antonio del Prete Tercero]: La cédula anual incluirá emisiones, residuos y consumo de agua durante la operación; también se acordó reportar el uso hídrico de centros de datos para hacerlo público.

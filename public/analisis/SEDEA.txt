@@ -1,0 +1,8 @@
+tiempo_minutos:46
+datos_numericos: 85
+acciones: 32
+gobernador_directas: 1
+gobernador_indirectas: 2
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: La sequía y las inclemencias climáticas afectan la producción, el forraje y la floración de la que dependen los apicultores; los apoyos emergentes deben llegar a los productores.

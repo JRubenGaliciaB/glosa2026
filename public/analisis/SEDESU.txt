@@ -1,0 +1,8 @@
+tiempo_minutos:40
+datos_numericos: 232
+acciones: 60
+gobernador_directas: 2
+gobernador_indirectas: 3
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 1
+puntos_de_friccion: El crecimiento económico y poblacional aumenta las exigencias de agua, energía y protección ambiental. 

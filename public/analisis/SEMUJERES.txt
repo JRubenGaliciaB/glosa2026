@@ -1,0 +1,8 @@
+tiempo_minutos:40
+datos_numericos: 124
+acciones: 27
+gobernador_directas: 0
+gobernador_indirectas: 0
+aqui_contigo: 2
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: La violencia contra las mujeres sigue siendo alta; en las jornadas se detectó desconocimiento de los tipos de violencia y de las vías de atención, además de barreras económicas y de cuidados.

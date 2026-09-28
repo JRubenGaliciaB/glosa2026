@@ -1,0 +1,8 @@
+tiempo_minutos:30
+datos_numericos: 103
+acciones: 35
+gobernador_directas: 0
+gobernador_indirectas: 0
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: El abasto de medicamentos, la salud mental y la atención permanente a la insuficiencia renal siguen siendo retos para los servicios de salud.

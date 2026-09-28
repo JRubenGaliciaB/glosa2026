@@ -1,0 +1,8 @@
+tiempo_minutos:31
+datos_numericos: 166
+acciones: 38
+gobernador_directas: 1
+gobernador_indirectas: 0
+aqui_contigo: 1
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: La atención a personas desaparecidas, las demandas sociales y las emergencias climáticas requieren coordinación sostenida entre instituciones y diálogo con las comunidades.

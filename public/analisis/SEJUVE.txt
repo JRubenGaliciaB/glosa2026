@@ -1,0 +1,8 @@
+tiempo_minutos:34
+datos_numericos: 55
+acciones: 29
+gobernador_directas: 0
+gobernador_indirectas: 1
+aqui_contigo: 2
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: El acceso al primer empleo y la atención de salud mental no son iguales para jóvenes de la zona metropolitana y comunidades rurales; persisten brechas de inclusión.

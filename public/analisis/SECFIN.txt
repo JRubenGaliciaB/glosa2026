@@ -1,0 +1,8 @@
+tiempo_minutos:25
+datos_numericos: 113
+acciones: 20
+gobernador_directas: 2
+gobernador_indirectas: 0
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: El pago del empréstito y el avance de la gobernanza digital exigen mantener disciplina presupuestaria, transparencia y capacidad de inversión pública.

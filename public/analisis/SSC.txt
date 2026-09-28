@@ -1,0 +1,8 @@
+tiempo_minutos:33
+datos_numericos: 144
+acciones: 27
+gobernador_directas: 5
+gobernador_indirectas: 0
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: Persisten riesgos de violencia familiar, delitos y amenazas digitales; algunas comunidades demandan mayor presencia policial y las víctimas requieren acompañamiento.

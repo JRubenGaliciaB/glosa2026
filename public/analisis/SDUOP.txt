@@ -1,0 +1,8 @@
+tiempo_minutos:21
+datos_numericos: 47
+acciones: 24
+gobernador_directas: 0
+gobernador_indirectas: 0
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: Persisten rezagos de servicios e infraestructura en comunidades; las contingencias climáticas dañan caminos y elevan la necesidad de conservación y vivienda digna.

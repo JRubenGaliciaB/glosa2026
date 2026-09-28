@@ -1,0 +1,8 @@
+tiempo_minutos:37
+datos_numericos: 96
+acciones: 21
+gobernador_directas: 0
+gobernador_indirectas: 2
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: El reto es distribuir las oportunidades del turismo entre más regiones, fortalecer la capacitación de prestadores y sostener la conectividad y la oferta turística.

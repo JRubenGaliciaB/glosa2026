@@ -1,0 +1,8 @@
+tiempo_minutos:33
+datos_numericos: 85
+acciones: 25
+gobernador_directas: 1
+gobernador_indirectas: 0
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: Persiste la brecha de participación laboral entre mujeres y hombres y queda un rezago de expedientes en las juntas de conciliación, pese a los avances reportados.

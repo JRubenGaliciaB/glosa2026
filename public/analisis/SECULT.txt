@@ -1,0 +1,8 @@
+tiempo_minutos:33
+datos_numericos: 62
+acciones: 27
+gobernador_directas: 0
+gobernador_indirectas: 0
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: Ampliar el acceso a la cultura en municipios y para personas con discapacidad requiere mantener apoyos, espacios y oportunidades para artistas locales.

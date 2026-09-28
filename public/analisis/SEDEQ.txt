@@ -1,0 +1,8 @@
+tiempo_minutos:38
+datos_numericos: 139
+acciones: 25
+gobernador_directas: 3
+gobernador_indirectas: 0
+aqui_contigo: 0
+plan_estatal_de_desarrollo: 0
+puntos_de_friccion: El crecimiento demográfico presiona la cobertura educativa, especialmente en preescolar y bachillerato; reducir abandono exige infraestructura, equipamiento y docentes.
