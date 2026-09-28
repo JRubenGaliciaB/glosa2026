@@ -447,8 +447,7 @@ function Content({tab,text,selected,summaryText,dialogMode,onDialogModeChange}){
             key={k}
           >
             <b>{v}</b>
-            <small>{k.replaceAll('_', ' ')}</small>
-          </div>
+<small>{k === 'gobernador_directas' ? 'Menciones directas del Gobernador' : k.replaceAll('_', ' ')}</small>          </div>
         ))}
       </div>
     </div>
