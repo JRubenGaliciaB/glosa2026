@@ -1,6 +1,3 @@
-Indicadores principales — CONT
-Fuente de todas las métricas: transcripción CONT(7).txt, comparecencia del quinto informe en Querétaro. Cifras extraídas sin deduplicación ni validación documental. Los datos sin periodo específico tienen corte a la comparecencia de septiembre de 2026.
-
 Plataforma integral de control: 20 desarrollos informáticos; Contraloría con 200 personas y 34 órganos internos de control. Corte: 2026.
 Solicitudes de información atendidas: 5,276, con respuesta en promedio de 14 días frente al plazo normativo de 20 días. Periodo: administración 2021–2026.
 Atención de solicitudes de información: efectividad superior a 99%; 34 respuestas modificadas tras impugnación. Periodo: administración 2021–2026.

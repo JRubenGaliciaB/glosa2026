@@ -1,6 +1,3 @@
-Indicadores principales — SECFIN
-Fuente de todas las métricas: transcripción SECFIN(6).txt, comparecencia del quinto informe en Querétaro. Cifras extraídas sin deduplicación ni validación documental. Los datos sin periodo específico tienen corte a la comparecencia de septiembre de 2026.
-
 Asignación presupuestal de salud: crecimiento de 38% y más de 37,000 millones de pesos invertidos durante la administración. Corte: julio de 2026.
 Recursos estatales para municipios: crecimiento de 84%; más de 10,500 millones de pesos programados en 2026, con avance reportado de 62% a julio.
 Infraestructura: más de 22,800 millones de pesos invertidos y crecimiento de 61% de recurso estatal durante la administración. Corte: julio de 2026.

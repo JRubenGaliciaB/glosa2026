@@ -1,6 +1,3 @@
-Indicadores principales — SEDEQ
-Fuente de todas las métricas: transcripción SEDEQ(7).txt, comparecencia del quinto informe en Querétaro, salvo fuente estadística citada en alguna métrica. Cifras extraídas sin deduplicación ni validación documental. Los datos sin periodo específico tienen corte a la comparecencia de septiembre de 2026.
-
 Matrícula educativa: 672,516 estudiantes desde educación inicial hasta posgrado; 39,936 docentes y más de 5,100 escuelas e instituciones en 18 municipios. Corte: 2026.
 Trayectoria educativa: 57 de cada 100 estudiantes que ingresan a primaria concluyen una carrera profesional, frente a 34 a nivel nacional. Corte: 2026.
 Educación básica pública: más de 345,000 estudiantes en más de 2,000 escuelas. Corte: 2026.

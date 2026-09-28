@@ -1,6 +1,3 @@
-Indicadores principales — SEGOB
-Fuente de todas las métricas: transcripción SEGOB(4).txt, comparecencia del quinto informe en Querétaro, salvo fuente estadística citada en alguna métrica. Cifras extraídas sin deduplicación ni validación documental. Los datos sin periodo específico tienen corte a la comparecencia de septiembre de 2026.
-
 Solicitudes ciudadanas atendidas o canalizadas: 7,408. Periodo: informe 2025–2026.
 Regreso seguro de personas afectadas por bloqueos en Jalisco: 1,850 personas acompañadas desde febrero de 2026.
 Acciones del Archivo General de Notarías: 20,816, incluidas 4,817 consultas de protocolos. Periodo: informe 2025–2026.

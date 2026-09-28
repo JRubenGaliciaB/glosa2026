@@ -1,6 +1,3 @@
-Indicadores principales — SEDEA
-Fuente de todas las métricas: transcripción SEDEA(7).txt, comparecencia del quinto informe en Querétaro, salvo fuente estadística citada en alguna métrica. Cifras extraídas sin deduplicación ni validación documental. Los datos sin periodo específico tienen corte a la comparecencia de septiembre de 2026.
-
 Población rural vinculada a agricultura: 68%; vinculada a ganadería: 31%. Corte: comparecencia 2026.
 Superficie agrícola de riego: aproximadamente 59,600 hectáreas; de temporal: 93,000 hectáreas. Corte: 2026.
 Unidades de producción agrícola según censo INEGI 2022: Amealco 7,800; San Juan del Río 4,163; Cadereyta 4,126.
